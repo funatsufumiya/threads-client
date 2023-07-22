@@ -1,0 +1,22 @@
+{
+  "name": "threads-client",
+  "version": "0.0.1",
+  "description": "threads.net simple post CLI client",
+  "main": "threads-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funatsufumiya/threads-client.git"
+  },
+  "author": "Fumiya Funatsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funatsufumiya/threads-client/issues"
+  },
+  "homepage": "https://github.com/funatsufumiya/threads-client#readme",
+  "dependencies": {
+    "threads-api": "^1.5.4"
+  }
+}
