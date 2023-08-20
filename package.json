@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/funatsufumiya/threads-client#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "threads-api": "^1.5.4"
   }
 }
